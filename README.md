@@ -4,24 +4,23 @@ Link for video-lessons: https://www.youtube.com/watch?v=0oSsLbh_Kv4&ab_channel=f
 
 --
 
-✏️ Course from Bobby Stearman. Check out his channel: https://www.youtube.com/channel/UCitb...
+✏️ Course from Bobby Stearman. Check out his channel: https://www.youtube.com/channel/UCitbHjDxcR3JBErnRLCuYkw
 
-💻 Template: https://github.com/bobby-didcoding/di...
+💻 Template: https://github.com/bobby-didcoding/didcoding_resume_template
 
-💻 Django Code: https://github.com/bobby-didcoding/re...
+💻 Django Code: https://github.com/bobby-didcoding/resume_app
 
 --
 
-⌨️ (00:00) Intro 
+⌨️ (00:00) Intro
 
-⌨️ (01:28) Select template 
+⌨️ (01:28) Select template
 
-⌨️ (03:28) Start django project 
+⌨️ (03:28) Start django project
 
-⌨️ (05:57) Backend 
+⌨️ (05:57) Backend
 
-⌨️ (44:06) Frontend 
-
+⌨️ (44:06) Frontend
 
 🎉 Thanks to our Champion and Sponsor supporters:
 
